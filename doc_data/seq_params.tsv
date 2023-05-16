@@ -1,0 +1,3 @@
+specimen	filename	slide_type	mask_threshold	foreground_ratio	spots_used	reads_per_spot	total_reads
+CytAssist_FFPE_Mouse_Brain2	CytAssist_FFPE_Mouse_Brain2.tif	6.5mm	196	0.436207084714764	2182	25000	54550000
+CytAssist_FFPE_GBM	CytAssist_FFPE_GBM.tif	11mm	184	0.746835840459642	10456	25000	261400000
