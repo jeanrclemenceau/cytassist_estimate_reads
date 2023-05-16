@@ -27,14 +27,14 @@ VERBOSE_LEVEL = [log.ERROR, log.WARNING, log.INFO, log.DEBUG]
 #Default trimming parameters
 VISIUM_PARAMS = {
     "6.5mm": {
-        'TOTAL_SPOTS': 5000,
+        'TOTAL_SPOTS': 4992,
         'ROI_X':230,
         'ROI_Y':768,
         'SIZE_X':1421,
         'SIZE_Y':1496    
     },
     "11mm": {
-        'TOTAL_SPOTS': 14000,
+        'TOTAL_SPOTS': 14336,
         'ROI_X':280,
         'ROI_Y':300,
         'SIZE_X':2492,
