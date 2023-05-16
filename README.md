@@ -1,5 +1,5 @@
 # cytassist_estimate_reads
-Estimate number of reads for a Visium FFPE for CytAssist samples according to its tissue image.
+Automatically estimate the number of sequencing reads for 10x Visium CytAssist experiments according to their tissue image.
 
 
 ## About
